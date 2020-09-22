@@ -1,2 +1,4 @@
-document.getElementById("demo").innerHTML = "My First JavaScript";
-document.getElementById("boink").innerHTML = "boink";
+function myFunction() {
+    document.getElementById("demo").innerHTML = "My First JavaScript";
+    document.getElementById("boink").innerHTML = "boink";
+}
